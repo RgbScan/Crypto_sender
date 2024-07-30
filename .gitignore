@@ -1,0 +1,4 @@
+# Ignore configuration files with sensitive information
+wallets.json
+wallets_to.json
+.env
